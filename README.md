@@ -1,2 +1,2 @@
 # Cpp_one_week_learning
-c++入門
+七日間でc++入門
